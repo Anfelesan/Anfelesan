@@ -1,6 +1,12 @@
 <h1 align="center">Hi, i am Andrés León ⛄</h1>
 
-> Hi, I'm Anfelesan😉, a web developer who likes to constantly learn📓 and improve⬆
+<p> Yes, I'm Anfelesan😉, a web developer who likes to constantly learn📓 and improve⬆ </p>
+
+```rust
+fn main() {
+  println!("Learning Rust 🧐");
+}
+```
 
 <h2 align="center">
   Skills

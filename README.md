@@ -3,6 +3,8 @@
 <h1 align="center">Hi, i am Andrés León ⛄</h1>
 <p> Yes, I'm Anfelesan😉, a web developer who likes to constantly learn📓 and improve⬆ </p>
 
+> lover of the exclusive
+
 ```rust
 fn main() {
   println!("Learning Rust 🧐");
@@ -28,7 +30,14 @@ fn main() {
 [![Netlify]][Netlify-url]
 
 ### Used Code Editor
-[![VSCode][VSCode]][VSCode-url]
+[![VSCodeInsiders][VSCodeInsiders]][VSCodeInsiders-url]
+
+<h2 align="center">
+  Find me on
+</h2>
+
+[![Codeforces][Codeforces]][Codeforces-url]
+
 
 [HTML]: https://img.shields.io/badge/HTML%205-E34F26?style=for-the-badge&labelColor=FFF&logo=HTML5
 [CSS]: https://img.shields.io/badge/CSS%203-039BE5?style=for-the-badge&labelColor=FFF&logo=CSS3&logoColor=039BE5
@@ -48,3 +57,8 @@ fn main() {
 
 [VSCode]: https://img.shields.io/badge/Visual%20Studio%20Code-24ABF2?style=for-the-badge&labelColor=213345&logo=visual-studio-code&logoColor=24ABF2
 [VSCode-url]: https://code.visualstudio.com/
+[VSCodeInsiders]: https://img.shields.io/badge/Visual%20Studio%20Code%20Insiders-0FB69A?style=for-the-badge&labelColor=213345&logo=visual-studio-code&logoColor=0FB69A
+[VSCodeInsiders-url]: https://code.visualstudio.com/insiders/
+
+[Codeforces]: https://img.shields.io/badge/Codeforces-B61F25?style=for-the-badge&labelColor=1991cf&logo=codeforces&logoColor=FF0
+[Codeforces-url]: https://codeforces.com/profile/Anfelesan

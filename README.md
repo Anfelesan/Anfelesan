@@ -5,12 +5,6 @@
 
 > lover of the exclusive
 
-```rust
-fn main() {
-  println!("Learning Rust 🧐");
-}
-```
-
 <h2 align="center">
   Skills
 </h2>

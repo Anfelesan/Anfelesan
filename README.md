@@ -1,7 +1,3 @@
-<h2 align="center">
-  <img src="https://videos.openai.com/vg-assets/assets%2Ftask_01jw5s13y6e7gve8y56c09mpjb%2F1748245748_img_0.webp?st=2025-05-26T06%3A36%3A18Z&se=2025-06-01T07%3A36%3A18Z&sks=b&skt=2025-05-26T06%3A36%3A18Z&ske=2025-06-01T07%3A36%3A18Z&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skoid=3d249c53-07fa-4ba4-9b65-0bf8eb4ea46a&skv=2019-02-02&sv=2018-11-09&sr=b&sp=r&spr=https%2Chttp&sig=%2F%2BJe7drifRjVoTAQlW0Qhe7yxtpAio6wV9ry7sB8RO8%3D&az=oaivgprodscus" height="150px">
-</h2>
-
 <h1 align="center">Hi, i am Andrés León ⛄</h1>
 <p>Hello, I'm Andrés León, but you can call me Anfelesan, since I was little I like challenges and riddles, i think that's why i show interest in mathematics, Rubik's cubes, and of course, programming.</p>
 <p>That's me, someone fascinated by problem solving, algorithms and software development.</p>
